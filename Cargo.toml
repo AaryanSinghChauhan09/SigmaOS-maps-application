@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-maps-application"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS maps-application component - desktop_applications"
+
+[lib]
+name = "maps_application"
+path = "src/lib.rs"
