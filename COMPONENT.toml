@@ -3,7 +3,7 @@ name = "SigmaOS-maps-application"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "maps-application component"
+description = "Maps Application"
 upstream = []
 
 [contract]
